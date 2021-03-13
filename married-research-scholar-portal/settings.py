@@ -84,7 +84,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = "married-research-scholar-portal.wsgi.application"
 
-
+GOOGLE_APPLICATION_CREDENTIALS_PATH = "intern-kuku-cb7024b86822.json"
 
 
 # Database
