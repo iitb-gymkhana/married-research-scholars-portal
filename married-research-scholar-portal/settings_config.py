@@ -66,8 +66,8 @@ DATABASES = {
 
 # OAuth2 settings
 AUTHORIZATION_URL = "https://gymkhana.iitb.ac.in/sso/oauth/authorize/"
-# REDIRECT_URI = "https://gymkhana.iitb.ac.in/mrsp/oauth/callback/"
-REDIRECT_URI = "http://127.0.0.1:8000/oauth/callback/"
+REDIRECT_URI = "https://gymkhana.iitb.ac.in/mrsp/oauth/callback/"
+# REDIRECT_URI = "http://127.0.0.1:8000/oauth/callback/"
 # CLIENT_ID = "QYeB9w4SSXCxQi2hNiaqJ1P1cZPeXpqOBcKNsTPe"
 CLIENT_ID = "ohRIIM0R1kEIxHOu67RgAvp3i2HkGEyYteQ40N1b"
 # CLIENT_SECRET = "ym4wqwvzUpKYYJVZ4gIVw2grfKZawJpJpr64RbOTdIttlroru8Ritpe1qbY9Wc7Pdsv3AFOTEqWYnB2wPQ2i3Qyv79d6GTPwSvWXcuZOk14WNI3tlj8i9PXpKqe9RZpw"
